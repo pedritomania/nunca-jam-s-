@@ -194,3 +194,7 @@
 [08Jul2025 16:09:21.145] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 74791 ms
 [08Jul2025 16:09:21.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (91.106s)! For help, type "help"
 [08Jul2025 16:09:21.198] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Jul2025 16:18:07.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 16:18:07.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
+[08Jul2025 16:23:56.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 16:23:56.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reset<--[HERE]
